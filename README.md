@@ -6,6 +6,10 @@ The project can be braodly divided into two parts -
 1) Build and train a model in Keras for Facial Expression Recognition.
 2) Deploy the model on web using FLASK and run it on videos.
 
+# Model Architecture:
+
+![model (1)](https://user-images.githubusercontent.com/58647922/151978032-bdb82031-350f-4fc5-8fe5-be26e04f1dfd.png)
+
 # Steps to follow
 
 1) Extract train and test images from ```data.rar``` file.
